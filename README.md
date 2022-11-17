@@ -10,5 +10,5 @@ Primero insertas los datos del formulario y despues los buscas
  
 ** nota a seguir , para buscar algo en la BD tiene que estar escrito de la misma manera que lo pusiste en el formulario , con mayusuculas y todo **
 
-por si necesita entrar a la base de datos , usuario: proyectoF
+por si necesita entrar a la base de datos , usuario: ProyectoF
                                             Password: D12345678
